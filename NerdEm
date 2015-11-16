@@ -1,5 +1,0 @@
-[podlove-podcast-subscribe-button size="medium"]
-<br>
-<span style="font-size:small">
-Alle <a target="_blank" href="http://nerdemissionen.de/archiv/">Folgen</a>, alle Links und weitere Informationen zum Podcast findet ihr auf <a target="_blank" href="http://nerdemissionen.de">NerdEmissionen.de</a>. Kommentare sind toll und machen glücklich. In <a target="_blank" href="https://itunes.apple.com/de/podcast/nerd-emissionen-m4a/id443695915?mt=2">iTunes</a>, auf der <a target="_blank" href="{{ episode.url }}">Seite</a> oder via <a target="_blank" href="http://twitter.com/nerdemissionen">Twitter</a>.
-</span>
